@@ -32,8 +32,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Autor.cpp" />
+		<Unit filename="Autor.h" />
+		<Unit filename="Autores.cpp" />
+		<Unit filename="Autores.h" />
 		<Unit filename="Fecha.cpp" />
 		<Unit filename="Fecha.h" />
+		<Unit filename="IteradorAutores.cpp" />
+		<Unit filename="IteradorAutores.h" />
 		<Unit filename="String.cpp" />
 		<Unit filename="String.h" />
 		<Unit filename="main.cpp" />

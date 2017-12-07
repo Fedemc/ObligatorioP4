@@ -2,6 +2,7 @@
 #define STRING_H_INCLUDED
 #include <string.h>
 
+
 const int MAX=40;
 
 class String
@@ -29,16 +30,16 @@ class String
         String operator=(const String&);
 
         //Sobrecarga del ==
-        bool operator==(String,String);
+        bool operator==(String);
 
         //Sobrecarga del <
-        bool operator<(String,String);
+        bool operator<(String);
 
         //Sobrecarga del +
-        String operator+(String,String);
+        String operator+(String);
 
         //Desplegar en pantalla una cadena
-        void print(String);
+        void print();
 
         //Leer una cadena desde teclado
         String scan();

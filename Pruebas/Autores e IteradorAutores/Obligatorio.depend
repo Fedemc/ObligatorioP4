@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1512518125 source:c:\users\java\downloads\obligatorio\autor.cpp
+	"Autor.h"
+
+1512494616 source:c:\users\java\downloads\obligatorio\fecha.cpp
+	"Fecha.h"
+
+1512494616 c:\users\java\downloads\obligatorio\fecha.h
+	<stdio.h>
+
+1512518821 source:c:\users\java\downloads\obligatorio\main.cpp
+	<iostream>
+	"Autor.h"
+
+1512518845 source:c:\users\java\downloads\obligatorio\string.cpp
+	"String.h"
+	<iostream>
+
+1512518411 c:\users\java\downloads\obligatorio\string.h
+	<string.h>
+
+1512518074 c:\users\java\downloads\obligatorio\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512519876 source:c:\users\java\downloads\autor\autor.cpp
+	"Autor.h"
+
+1512520090 c:\users\java\downloads\autor\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512518411 c:\users\java\downloads\autor\string.h
+	<string.h>
+
+1512494616 c:\users\java\downloads\autor\fecha.h
+	<stdio.h>
+
+1512494616 source:c:\users\java\downloads\autor\fecha.cpp
+	"Fecha.h"
+
+1512518821 source:c:\users\java\downloads\autor\main.cpp
+	<iostream>
+	"Autor.h"
+
+1512518845 source:c:\users\java\downloads\autor\string.cpp
+	"String.h"
+	<iostream>
+
+1512494616 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\fecha.cpp
+	"Fecha.h"
+
+1512494616 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\fecha.h
+	<stdio.h>
+
+1512610233 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\main.cpp
+	<iostream>
+	"Autores.h"
+
+1512520090 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512518411 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\string.h
+	<string.h>
+
+1512609168 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\string.cpp
+	"String.h"
+	<iostream>
+
+1512602925 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\autor.cpp
+	"Autor.h"
+
+1512609537 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\autores.cpp
+	"Autores.h"
+
+1512609246 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\autores.h
+	"IteradorAutores.h"
+
+1512606267 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\iteradorautores.cpp
+	"IteradorAutores.h"
+
+1512607312 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\autores\iteradorautores.h
+	"Autor.h"
+
