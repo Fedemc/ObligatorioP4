@@ -1,0 +1,320 @@
+# depslib dependency file v1.0
+1512747742 source:d:\ude\segundo\p4\pruebalibro\main.cpp
+	<iostream>
+	"Libro.h"
+	"Novela.h"
+	"Texto.h"
+	"Escolar.h"
+
+1512681181 source:d:\ude\segundo\p4\pruebalibro\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1512681168 d:\ude\segundo\p4\pruebalibro\string.h
+	<stdio.h>
+
+1512698617 source:d:\ude\segundo\p4\pruebalibro\libro.cpp
+	"Libro.h"
+
+1512768612 d:\ude\segundo\p4\pruebalibro\libro.h
+	"String.h"
+	"Fecha.h"
+
+1512682589 source:d:\ude\segundo\p4\pruebalibro\autor.cpp
+	"Autor.h"
+
+1512682556 d:\ude\segundo\p4\pruebalibro\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512682626 d:\ude\segundo\p4\pruebalibro\fecha.h
+	<stdio.h>
+
+1512685992 source:d:\ude\segundo\p4\pruebalibro\fecha.cpp
+	"Fecha.h"
+
+1512747272 source:d:\ude\segundo\p4\pruebalibro\novela.cpp
+	"Novela.h"
+
+1512697395 d:\ude\segundo\p4\pruebalibro\novela.h
+	"Autor.h"
+	"Libro.h"
+
+1512747387 source:d:\ude\segundo\p4\pruebalibro\texto.cpp
+	"Texto.h"
+
+1512699798 d:\ude\segundo\p4\pruebalibro\texto.h
+	"Libro.h"
+	"Fecha.h"
+
+1512747312 source:d:\ude\segundo\p4\pruebalibro\escolar.cpp
+	"Escolar.h"
+
+1512699092 d:\ude\segundo\p4\pruebalibro\escolar.h
+	"Texto.h"
+
+1512771633 source:d:\ude\segundo\p4\pruebalibro\libros.cpp
+	"Libros.h"
+
+1512771418 d:\ude\segundo\p4\pruebalibro\libros.h
+	"IteradorLibros.h"
+
+1512692724 source:d:\ude\segundo\p4\pruebalibro\objeto.cpp
+	"Objeto.h"
+
+1512692701 d:\ude\segundo\p4\pruebalibro\objeto.h
+
+1512770255 source:d:\ude\segundo\p4\pruebalibro\iteradorlibros.cpp
+	"IteradorLibros.h"
+
+1512771410 d:\ude\segundo\p4\pruebalibro\iteradorlibros.h
+	"Libro.h"
+
+1512609537 source:d:\ude\segundo\p4\pruebalibro\autores.cpp
+	"Autores.h"
+
+1512609246 d:\ude\segundo\p4\pruebalibro\autores.h
+	"IteradorAutores.h"
+
+1512607312 d:\ude\segundo\p4\pruebalibro\iteradorautores.h
+	"Autor.h"
+
+1512606267 source:d:\ude\segundo\p4\pruebalibro\iteradorautores.cpp
+	"IteradorAutores.h"
+
+1512682589 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\autor.cpp
+	"Autor.h"
+
+1512682556 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512681168 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\string.h
+	<stdio.h>
+
+1512682626 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\fecha.h
+	<stdio.h>
+
+1512609537 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\autores.cpp
+	"Autores.h"
+
+1512609246 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\autores.h
+	"IteradorAutores.h"
+
+1512607312 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\iteradorautores.h
+	"Autor.h"
+
+1512747312 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\escolar.cpp
+	"Escolar.h"
+
+1512699092 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\escolar.h
+	"Texto.h"
+
+1512699798 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\texto.h
+	"Libro.h"
+	"Fecha.h"
+
+1512768612 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\libro.h
+	"String.h"
+	"Fecha.h"
+
+1512685992 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\fecha.cpp
+	"Fecha.h"
+
+1512606267 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\iteradorautores.cpp
+	"IteradorAutores.h"
+
+1512770255 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\iteradorlibros.cpp
+	"IteradorLibros.h"
+
+1512771410 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\iteradorlibros.h
+	"Libro.h"
+
+1512698617 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\libro.cpp
+	"Libro.h"
+
+1512771633 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\libros.cpp
+	"Libros.h"
+
+1512771418 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\libros.h
+	"IteradorLibros.h"
+
+1512747742 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\main.cpp
+	<iostream>
+	"Libro.h"
+	"Novela.h"
+	"Texto.h"
+	"Escolar.h"
+
+1512697395 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\novela.h
+	"Autor.h"
+	"Libro.h"
+
+1512747272 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\novela.cpp
+	"Novela.h"
+
+1512681181 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1512747387 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\libro, libros e iteradorlibros\texto.cpp
+	"Texto.h"
+
+1512682589 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\autor.cpp
+	"Autor.h"
+
+1512682556 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512681168 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\string.h
+	<stdio.h>
+
+1512682626 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\fecha.h
+	<stdio.h>
+
+1512609537 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\autores.cpp
+	"Autores.h"
+
+1512609246 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\autores.h
+	"IteradorAutores.h"
+
+1512607312 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\iteradorautores.h
+	"Autor.h"
+
+1512747312 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\escolar.cpp
+	"Escolar.h"
+
+1512699092 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\escolar.h
+	"Texto.h"
+
+1512699798 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\texto.h
+	"Libro.h"
+	"Fecha.h"
+
+1512768612 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\libro.h
+	"String.h"
+	"Fecha.h"
+
+1512685992 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\fecha.cpp
+	"Fecha.h"
+
+1512606267 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\iteradorautores.cpp
+	"IteradorAutores.h"
+
+1512770255 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\iteradorlibros.cpp
+	"IteradorLibros.h"
+
+1512771410 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\iteradorlibros.h
+	"Libro.h"
+
+1512698617 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\libro.cpp
+	"Libro.h"
+
+1512771633 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\libros.cpp
+	"Libros.h"
+
+1512771418 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\libros.h
+	"IteradorLibros.h"
+
+1512681181 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1512747387 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\texto.cpp
+	"Texto.h"
+
+1512865115 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\main.cpp
+	<iostream>
+	"Libros.h"
+	"Autores.h"
+
+1512865061 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\novela.cpp
+	"Novela.h"
+
+1512865075 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\fachada\novela.h
+	"Autor.h"
+	"Libro.h"
+
+1512682589 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\autor.cpp
+	"Autor.h"
+
+1512682556 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512681168 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\string.h
+	<stdio.h>
+
+1512682626 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\fecha.h
+	<stdio.h>
+
+1512609537 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\autores.cpp
+	"Autores.h"
+
+1512609246 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\autores.h
+	"IteradorAutores.h"
+
+1512607312 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\iteradorautores.h
+	"Autor.h"
+
+1512866959 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\escolar.cpp
+	"Escolar.h"
+
+1512866961 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\escolar.h
+	"Texto.h"
+
+1512866945 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\texto.h
+	"Libro.h"
+	"Fecha.h"
+
+1512867247 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\libro.h
+	"String.h"
+	"Fecha.h"
+
+1512685992 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\fecha.cpp
+	"Fecha.h"
+
+1512606267 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\iteradorautores.cpp
+	"IteradorAutores.h"
+
+1512770255 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\iteradorlibros.cpp
+	"IteradorLibros.h"
+
+1512771410 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\iteradorlibros.h
+	"Libro.h"
+
+1512771633 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\libros.cpp
+	"Libros.h"
+
+1512867082 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\libros.h
+	"IteradorLibros.h"
+	"Escolar.h"
+	"Novela.h"
+
+1512866921 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\novela.cpp
+	"Novela.h"
+
+1512866913 c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\novela.h
+	"Autor.h"
+	"Libro.h"
+
+1512681181 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1512866933 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\texto.cpp
+	"Texto.h"
+
+1512867256 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\libro.cpp
+	"Libro.h"
+
+1512866892 source:c:\users\fede\desktop\ude\4to semestre\p4\obligatorio\repo\pruebas\tipoerror\main.cpp
+	<iostream>
+	"Libros.h"
+	"Autores.h"
+

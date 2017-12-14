@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1512747742 source:d:\ude\segundo\p4\pruebalibro\main.cpp
+	<iostream>
+	"Libro.h"
+	"Novela.h"
+	"Texto.h"
+	"Escolar.h"
+
+1512681181 source:d:\ude\segundo\p4\pruebalibro\string.cpp
+	"String.h"
+	<iostream>
+	<string.h>
+
+1512681168 d:\ude\segundo\p4\pruebalibro\string.h
+	<stdio.h>
+
+1512698617 source:d:\ude\segundo\p4\pruebalibro\libro.cpp
+	"Libro.h"
+
+1512768612 d:\ude\segundo\p4\pruebalibro\libro.h
+	"String.h"
+	"Fecha.h"
+
+1512682589 source:d:\ude\segundo\p4\pruebalibro\autor.cpp
+	"Autor.h"
+
+1512682556 d:\ude\segundo\p4\pruebalibro\autor.h
+	"String.h"
+	"Fecha.h"
+
+1512682626 d:\ude\segundo\p4\pruebalibro\fecha.h
+	<stdio.h>
+
+1512685992 source:d:\ude\segundo\p4\pruebalibro\fecha.cpp
+	"Fecha.h"
+
+1512747272 source:d:\ude\segundo\p4\pruebalibro\novela.cpp
+	"Novela.h"
+
+1512697395 d:\ude\segundo\p4\pruebalibro\novela.h
+	"Autor.h"
+	"Libro.h"
+
+1512747387 source:d:\ude\segundo\p4\pruebalibro\texto.cpp
+	"Texto.h"
+
+1512699798 d:\ude\segundo\p4\pruebalibro\texto.h
+	"Libro.h"
+	"Fecha.h"
+
+1512747312 source:d:\ude\segundo\p4\pruebalibro\escolar.cpp
+	"Escolar.h"
+
+1512699092 d:\ude\segundo\p4\pruebalibro\escolar.h
+	"Texto.h"
+
+1512771633 source:d:\ude\segundo\p4\pruebalibro\libros.cpp
+	"Libros.h"
+
+1512771418 d:\ude\segundo\p4\pruebalibro\libros.h
+	"IteradorLibros.h"
+
+1512692724 source:d:\ude\segundo\p4\pruebalibro\objeto.cpp
+	"Objeto.h"
+
+1512692701 d:\ude\segundo\p4\pruebalibro\objeto.h
+
+1512770255 source:d:\ude\segundo\p4\pruebalibro\iteradorlibros.cpp
+	"IteradorLibros.h"
+
+1512771410 d:\ude\segundo\p4\pruebalibro\iteradorlibros.h
+	"Libro.h"
+
+1512609537 source:d:\ude\segundo\p4\pruebalibro\autores.cpp
+	"Autores.h"
+
+1512609246 d:\ude\segundo\p4\pruebalibro\autores.h
+	"IteradorAutores.h"
+
+1512607312 d:\ude\segundo\p4\pruebalibro\iteradorautores.h
+	"Autor.h"
+
+1512606267 source:d:\ude\segundo\p4\pruebalibro\iteradorautores.cpp
+	"IteradorAutores.h"
+
